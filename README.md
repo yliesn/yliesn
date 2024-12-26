@@ -12,7 +12,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📊 Mes Stats GitHub
-![Vos stats GitHub](https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=radical)
+![Vos stats GitHub](https://github-readme-stats.vercel.app/api?username=yliesn&show_icons=true&theme=radical)
 
 ## 🔥 Projets Phares
 - [Projet 1](lien) - Description courte
