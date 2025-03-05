@@ -1,4 +1,4 @@
-# 👋 Hello, je suis yliesn
+# 👋 Hello, je suis Yliès
 
 ## 💫 À propos de moi
 🔭 Développeur Full Stack spécialisé en ERP  
